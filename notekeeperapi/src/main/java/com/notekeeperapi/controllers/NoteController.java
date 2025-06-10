@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+
+//controller 
 @RestController
 @RequestMapping("/api/v1/notes")
 public class NoteController {
